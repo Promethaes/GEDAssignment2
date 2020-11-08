@@ -5,6 +5,7 @@ using UnityEngine.InputSystem;
 
 public class NPlayerInput : MonoBehaviour
 {
+    public QuestSystemScript questSystem;
 
     Vector2 _mouseInput;
     //NOTE: _mouseSpeed changes mouse sensitivity. Implement into options in the future
@@ -107,7 +108,7 @@ public class NPlayerInput : MonoBehaviour
         if (!_useAbility)
             return;
 
-
+        
         //add more...wait i dont think we need to add more than one lmaooooooooooooooooooooooooo
         if (playerType == 1)
             bubbleShieldScript.AttemptToCast();
@@ -117,6 +118,7 @@ public class NPlayerInput : MonoBehaviour
         {
             ramThrough.hasRammed = true;
         }
+        questSystem.SendCompleteEvent("Ability");
     }
 
     void _MouseInput()
@@ -186,6 +188,7 @@ public class NPlayerInput : MonoBehaviour
             player.GetComponent<Rigidbody>().AddForce(new Vector3(vel.x * hopSpeed, jump, vel.z * hopSpeed), ForceMode.Impulse);
             _jumped = true;
             _jumpAnimDuration = 0.3f;
+            questSystem.SendCompleteEvent("Jump");
         }
         else if (_jumpAnimDuration <= 0.0f && !_doubleJumped)
         {
@@ -195,6 +198,7 @@ public class NPlayerInput : MonoBehaviour
             player.GetComponent<Rigidbody>().AddForce(new Vector3(vel.x * hopSpeed, jump, vel.z * hopSpeed), ForceMode.Impulse);
             _doubleJumped = true;
             _jumpAnimDuration = 0.3f;
+            questSystem.SendCompleteEvent("Double Jump");
         }
     }
 
@@ -211,6 +215,7 @@ public class NPlayerInput : MonoBehaviour
             _dashed = true;
             _dashDuration = 0.35f;
             _dashCooldown = 0.5f;
+            questSystem.SendCompleteEvent("Dash");
         }
         else if (_dashCooldown <= 0.0f && _dashDuration <= 0.0f && !_airDashed)
         {
@@ -219,6 +224,7 @@ public class NPlayerInput : MonoBehaviour
             _airDashed = true;
             _dashDuration = 0.35f;
             _dashCooldown = 0.5f;
+            questSystem.SendCompleteEvent("Air Dash");
         }
     }
 
@@ -253,6 +259,7 @@ public class NPlayerInput : MonoBehaviour
             if (_comboCounter > 2)
                 _comboCounter = 0;
             _comboDuration = 2.0f;
+            questSystem.SendCompleteEvent("Attack");
         }
     }
 
