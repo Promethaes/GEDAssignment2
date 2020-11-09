@@ -10,7 +10,7 @@ public class Quest : MonoBehaviour
         FindObjectOfType<QuestSystemScript>().Quests.Add(gameObject.name,this);
     }
 
-    bool questComplete = false;
+    public bool questComplete = false;
     public void completeQuest()
     {
         if (questComplete)

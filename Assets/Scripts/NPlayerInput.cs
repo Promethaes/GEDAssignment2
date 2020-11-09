@@ -33,6 +33,7 @@ public class NPlayerInput : MonoBehaviour
     public CharMenuInput charMenuInput;
     public int playerType;
     public bool insideCastingZone = false;
+    public bool castingZoneTypeOverride = false;
     public RamThroughScript ramThrough;
     public BubbleShieldScript bubbleShieldScript;
     public PolarBearScript polarBearScript;
@@ -107,7 +108,8 @@ public class NPlayerInput : MonoBehaviour
         if (!_useAbility)
             return;
 
-        
+        FindObjectOfType<QuestSystemScript>().SendCompleteEvent("Ability");
+
         //add more...wait i dont think we need to add more than one lmaooooooooooooooooooooooooo
         if (playerType == 1)
             bubbleShieldScript.AttemptToCast();

@@ -29,7 +29,7 @@ public class ActivateAbiltiesZoneScript : MonoBehaviour
 
         if (other.gameObject.GetComponent<CharMenuInput>())
             foreach (var p in playerManager.players)
-                if (other.gameObject == p && p.GetComponentInChildren<NPlayerInput>().playerType == zoneType)
+                if (other.gameObject == p && (p.GetComponentInChildren<NPlayerInput>().playerType == zoneType || p.GetComponentInChildren<NPlayerInput>().castingZoneTypeOverride))
                 {
 
                     p.GetComponentInChildren<NPlayerInput>().insideCastingZone = true;
@@ -46,7 +46,7 @@ public class ActivateAbiltiesZoneScript : MonoBehaviour
         if (other.gameObject.GetComponent<CharMenuInput>())
             foreach (var p in playerManager.players)
             {
-                if (other.gameObject == p && p.GetComponentInChildren<NPlayerInput>().playerType == zoneType)
+                if (other.gameObject == p && (p.GetComponentInChildren<NPlayerInput>().playerType == zoneType || p.GetComponentInChildren<NPlayerInput>().castingZoneTypeOverride))
                 {
                     p.GetComponentInChildren<NPlayerInput>().insideCastingZone = false;
                     p.GetComponentInChildren<NPlayerInput>().bubbleShieldScript.blockades = new GameObject[1] { null };
