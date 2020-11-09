@@ -4,6 +4,12 @@ using UnityEngine;
 
 public class Quest : MonoBehaviour
 {
+
+    void Start()
+    {
+        FindObjectOfType<QuestSystemScript>().Quests.Add(gameObject.name,this);
+    }
+
     bool questComplete = false;
     public void completeQuest()
     {
@@ -11,6 +17,6 @@ public class Quest : MonoBehaviour
             return;
         questComplete = true;
         gameObject.GetComponent<TMPro.TextMeshProUGUI>().color = Color.green;
-        
+
     }
 }

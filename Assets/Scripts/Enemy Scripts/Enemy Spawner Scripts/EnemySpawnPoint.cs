@@ -10,19 +10,24 @@ public class EnemySpawnPoint : MonoBehaviour
     public List<GameObject> spawnEnemies = new List<GameObject>();
     public float spawnRadiusScalar = 15.0f;
     public int maxSpawn = 5;
-    bool _shouldSpawn = false;
     public float spawnTimeInterval = 1.0f;
     float _pvtSpawnTimeInterval = 1.0f;
     void Start()
     {
         CreatePool();
+        SpawnEnemy();
     }
 
     void Update()
     {
-        _pvtSpawnTimeInterval -= Time.deltaTime;
-        if (_pvtSpawnTimeInterval <= 0.0f && _shouldSpawn)
-            SpawnEnemy();
+        bool allInactive = true;
+        foreach (var e in spawnEnemies)
+        {
+            if (e.activeSelf)
+                allInactive = false;
+        }
+        if(allInactive)
+            FindObjectOfType<QuestSystemScript>().SendCompleteEvent("Attack");
     }
     void CreatePool()
     {
@@ -58,16 +63,5 @@ public class EnemySpawnPoint : MonoBehaviour
         _pvtSpawnTimeInterval = spawnTimeInterval;
     }
 
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.GetComponent<CharMenuInput>())
-            _shouldSpawn = true;
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        if (other.gameObject.GetComponent<CharMenuInput>())
-            _shouldSpawn = false;
-    }
 
 }
