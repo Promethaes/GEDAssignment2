@@ -153,7 +153,7 @@ public class NPlayerInput : MonoBehaviour
             //NOTE: Checks for _isGrounded to reduce the effects of gravity such that the player doesn't slide off slopes
             //TODO: Adjust raycast for actual models' radii
             //NOTE: Raycasts downwards for terrain collision, checking at a distance of 0.6f (0.5f radius, 0.1f actual check)
-            _isGrounded = Physics.Raycast(transform.position, -transform.up, out terrain, 0.6f);
+            _isGrounded = Physics.Raycast(transform.position, -transform.up, out terrain, 2f);
             if (_isGrounded && terrain.transform.tag == "Terrain")
             {
                 y = -1.0f;
@@ -243,9 +243,9 @@ public class NPlayerInput : MonoBehaviour
                 _comboCounter = 0;
             //TODO: Animation
             RaycastHit enemy;
-            if (Physics.Raycast(transform.position, transform.forward, out enemy, 2.0f) && enemy.transform.tag == "Enemy")
+            if (Physics.Raycast(transform.position, pCamera.transform.forward, out enemy, 5.0f) && enemy.transform.tag == "Enemy")
             {
-                Enemy foe = enemy.collider.GetComponent<Enemy>();
+                EnemyData foe = enemy.collider.gameObject.GetComponent<EnemyData>();
                 foe.takeDamage(_damageValues[_comboCounter]);
                 Debug.Log(foe.getHealth());
             }

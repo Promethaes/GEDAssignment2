@@ -36,7 +36,7 @@ public class EnemyData : MonoBehaviour
     public float icePickRange = 5.0f;
     public static List<GameObject> icePickEnemies = new List<GameObject>();
 
-    
+
 
     void Start()
     {
@@ -51,12 +51,12 @@ public class EnemyData : MonoBehaviour
                 setCombo(15.0f, 15.0f, 25.0f, 1.5f, 1.5f, 3.0f, 10.0f, 10.0f, 10.0f);
                 break;
             case enemyType.dumpage_Monster:
-                setHealth(250.0f);
+                setHealth(20.0f);
                 setCombo(20.0f, 20.0f, 35.0f, 1.5f, 1.5f, 2.7f, 0.8f, 1.1f, 1.3f);
                 break;
             case enemyType.icePick:
                 setHealth(120.0f);
-                setCombo(8.0f, 12.0f, 20.0f, 0.8f, 1.2f, 1.7f, 10.9f, 11.0f,11.1f);
+                setCombo(8.0f, 12.0f, 20.0f, 0.8f, 1.2f, 1.7f, 10.9f, 11.0f, 11.1f);
                 icePickEnemies.Add(this.gameObject);
                 break;
             default:
@@ -69,7 +69,7 @@ public class EnemyData : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void setHealth(float hp)
@@ -84,15 +84,18 @@ public class EnemyData : MonoBehaviour
     public void takeDamage(float hp)
     {
         _health -= hp;
-        if (_health < 0.0f)
+        if (_health <= 0.0f)
             die();
     }
 
     protected void die()
     {
-        if (_health < 0.0f)
+        if (_health <= 0.0f)
+        {
+            FindObjectOfType<QuestSystemScript>().SendCompleteEvent("Attack");
             //TODO: Dying animation, loot drops, etc.
             gameObject.SetActive(false);
+        }
     }
 
 

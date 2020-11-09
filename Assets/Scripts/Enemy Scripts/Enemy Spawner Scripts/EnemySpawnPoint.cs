@@ -20,17 +20,10 @@ public class EnemySpawnPoint : MonoBehaviour
 
     void Update()
     {
-        bool allInactive = true;
-        foreach (var e in spawnEnemies)
-        {
-            if (e.activeSelf)
-                allInactive = false;
-        }
-        if(allInactive)
-            FindObjectOfType<QuestSystemScript>().SendCompleteEvent("Attack");
     }
     void CreatePool()
     {
+        enemyPrefab.transform.position = gameObject.transform.position;
         for (int i = 0; i < maxSpawn; i++)
         {
             spawnEnemies.Add(GameObject.Instantiate(enemyPrefab));
@@ -42,19 +35,13 @@ public class EnemySpawnPoint : MonoBehaviour
     {
         int spawnIndex = -1;
 
-        if (_pvtSpawnTimeInterval > 0.0f)
-            return;
-        else
+        for (int i = 0; i < spawnEnemies.Count; i++)
         {
-            for (int i = 0; i < spawnEnemies.Count; i++)
-            {
-                if (!spawnEnemies[i].activeSelf)
-                    spawnIndex = i;
-            }
-            if (spawnIndex == -1)
-                return;//no availible enemy spawns
+            if (!spawnEnemies[i].activeSelf)
+                spawnIndex = i;
         }
-
+        if (spawnIndex == -1)
+            return;//no availible enemy spawns
 
         float radius = gameObject.GetComponent<SphereCollider>().radius;
 
