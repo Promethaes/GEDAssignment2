@@ -1,0 +1,491 @@
+METRICS LOG ENTRY ID 372
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+A
+Button Presses:
+B
+Button Presses:
+A
+Button Presses:
+B
+Button Presses:
+A
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+X
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB
+Button Presses:
+LB

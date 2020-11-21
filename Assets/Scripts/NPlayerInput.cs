@@ -60,7 +60,7 @@ public class NPlayerInput : MonoBehaviour
         playerType = charMenuInput.playerType;
 
         _setCombo(10.0f, 15.0f, 20.0f, 0.35f, 0.75f, 1.10f);
-
+        
     }
 
     // Update is called once per frame
@@ -109,8 +109,8 @@ public class NPlayerInput : MonoBehaviour
             return;
 
         FindObjectOfType<QuestSystemScript>().SendCompleteEvent("Ability");
+       FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("LB");
 
-        //add more...wait i dont think we need to add more than one lmaooooooooooooooooooooooooo
         if (playerType == 1)
             bubbleShieldScript.AttemptToCast();
         else if (playerType == 3)
@@ -176,6 +176,8 @@ public class NPlayerInput : MonoBehaviour
 
     void _Jump()
     {
+        FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("A");
+
         //NOTE: Resets the button so that the player doesn't accidentally double jump
          _isJumping = 0.0f;
         //NOTE: Jumping adds a slight boost to the x/z direction you move in to simulate push back against the ground
@@ -202,6 +204,7 @@ public class NPlayerInput : MonoBehaviour
 
     void _Dash()
     {
+        FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("B");
         //NOTE: Resets the button so that the player doesn't accidentally dash + air dash while holding the button
          _isDashing = 0.0f;
 
@@ -238,6 +241,7 @@ public class NPlayerInput : MonoBehaviour
 
     void _Attack()
     {
+        FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("X");
         if (_animationDuration < 0.0f)
         {
             _animationDuration = _animationDelay[_comboCounter];

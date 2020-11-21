@@ -14,7 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GEDAssignment2.unity
     guid: d9cc45f28a5ae7d41a870df6844ad291
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/Game Scene.unity
+    guid: ed7403bafef2f944d9b5589e1f237dfe
+  - enabled: 1
     path: Assets/Scenes/GameOverScene.unity
     guid: 6cdf64c296f5d8b4f8a11972f568d1e6
   m_configObjects:

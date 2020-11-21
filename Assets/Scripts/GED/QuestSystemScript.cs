@@ -11,9 +11,21 @@ public class QuestSystemScript : MonoBehaviour
     {
     }
 
+    bool switchToGameScene = false;
+    float timer = 1.0f;
     // Update is called once per frame
     void Update()
     {
+        if (switchToGameScene)
+        {
+            timer -= Time.deltaTime;
+            if (timer <= 0.0f)
+            {
+                UnityEngine.SceneManagement.SceneManager.LoadScene("Game Scene");
+                FindObjectOfType<CharMenuInput>().gameObject.transform.position = new Vector3(361.0f, 25.0f, 246.0f);
+                switchToGameScene = false;
+            }
+        }
     }
 
     public void SendCompleteEvent(string questName)
@@ -23,7 +35,7 @@ public class QuestSystemScript : MonoBehaviour
             if (quest.Key == questName)
                 quest.Value.completeQuest();
         }
-        
+
         bool allComplete = true;
         foreach (var q in Quests)
         {
@@ -31,6 +43,9 @@ public class QuestSystemScript : MonoBehaviour
                 allComplete = false;
         }
         if (allComplete)
+        {
             tutorialCompleteText.SetActive(true);
+            switchToGameScene = true;
+        }
     }
 }

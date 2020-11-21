@@ -1,0 +1,14 @@
+﻿  UserMetricsLogger.cpp
+D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\UserMetricsLogger\UserMetricsLogger.h(25,32): warning C4251: 'UserMetricsLogger::logData': class 'std::vector<MetricLog,std::allocator<MetricLog>>' needs to have dll-interface to be used by clients of class 'UserMetricsLogger'
+D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\UserMetricsLogger\UserMetricsLogger.h(25): message : see declaration of 'std::vector<MetricLog,std::allocator<MetricLog>>'
+D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\UserMetricsLogger\UserMetricsLogger.h(26,26): warning C4251: 'UserMetricsLogger::defaultPath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'UserMetricsLogger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\UserMetricsLogger\UserMetricsLogger.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\UserMetricsLogger\UserMetricsLogger.cpp(19,10): warning C4129: 'B': unrecognized character escape sequence
+     Creating library D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\\x64\Release\UserMetricsLogger.lib and object D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\\x64\Release\UserMetricsLogger.exp
+  Generating code
+  2 of 287 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UserMetricsLogger.vcxproj -> D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\\x64\Release\UserMetricsLogger.dll
