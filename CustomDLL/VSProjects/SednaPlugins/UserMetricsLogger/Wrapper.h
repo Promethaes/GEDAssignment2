@@ -9,7 +9,7 @@ extern "C" {
 
 	PLUGIN_API void WriteUserMetricsToFile();
 	PLUGIN_API void SetDefaultWritePath(String str);
-	PLUGIN_API void AddButtonPress(String str);
+	PLUGIN_API void AddButtonPress(String str,float time);
 
 #ifdef __cplusplus
 }

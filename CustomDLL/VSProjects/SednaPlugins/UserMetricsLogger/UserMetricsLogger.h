@@ -15,7 +15,7 @@ public:
 	void WriteUserMetricsToFile();
 	void ClearUserMetricsFile(String str);
 
-	void AddButtonPress(String srt);
+	void AddButtonPress(String srt,float time);
 
 	void SetDefaultWritePath(String str) {defaultPath = str.data;}
 private:

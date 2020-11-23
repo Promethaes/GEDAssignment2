@@ -7,8 +7,8 @@ D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\UserMetricsLo
 D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\UserMetricsLogger\UserMetricsLogger.cpp(19,10): warning C4129: 'B': unrecognized character escape sequence
      Creating library D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\\x64\Release\UserMetricsLogger.lib and object D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\\x64\Release\UserMetricsLogger.exp
   Generating code
-  2 of 287 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+  2 of 304 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   UserMetricsLogger.vcxproj -> D:\Projects\Repos\GEDAssignment2\CustomDLL\VSProjects\SednaPlugins\\x64\Release\UserMetricsLogger.dll

@@ -1,491 +1,466 @@
-METRICS LOG ENTRY ID 372
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-A
-Button Presses:
-B
-Button Presses:
-A
-Button Presses:
-B
-Button Presses:
-A
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-X
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
-Button Presses:
-LB
+METRICS LOG ENTRY ID 17212
+Button Presses:
+A Press Time: 3.180000
+A Press Time: 3.680000
+A Press Time: 5.420000
+A Press Time: 5.960000
+A Press Time: 6.560000
+A Press Time: 7.720000
+A Press Time: 8.420000
+A Press Time: 10.639999
+A Press Time: 11.500000
+A Press Time: 12.080000
+A Press Time: 12.480000
+B Press Time: 15.040000
+A Press Time: 16.600000
+B Press Time: 17.680000
+X Press Time: 19.864424
+X Press Time: 19.869129
+X Press Time: 19.873356
+X Press Time: 19.877319
+X Press Time: 19.881117
+X Press Time: 19.885250
+X Press Time: 19.889950
+X Press Time: 19.894154
+X Press Time: 19.897995
+X Press Time: 19.901907
+X Press Time: 19.906590
+X Press Time: 19.910337
+X Press Time: 19.914398
+X Press Time: 19.918377
+X Press Time: 19.922363
+X Press Time: 19.926849
+X Press Time: 19.930578
+X Press Time: 19.934542
+X Press Time: 19.938671
+X Press Time: 19.942417
+X Press Time: 19.946514
+X Press Time: 19.950394
+X Press Time: 19.954632
+X Press Time: 19.960190
+X Press Time: 20.066092
+X Press Time: 20.070265
+X Press Time: 20.074549
+X Press Time: 20.078451
+X Press Time: 20.082140
+X Press Time: 20.086470
+X Press Time: 20.091227
+X Press Time: 20.095112
+X Press Time: 20.098978
+X Press Time: 20.102943
+X Press Time: 20.107645
+X Press Time: 20.111336
+X Press Time: 20.115299
+X Press Time: 20.119305
+X Press Time: 20.124004
+X Press Time: 20.128147
+X Press Time: 20.132061
+X Press Time: 20.136372
+X Press Time: 20.140556
+X Press Time: 20.144697
+X Press Time: 20.148811
+X Press Time: 20.152800
+X Press Time: 20.157076
+X Press Time: 20.160892
+X Press Time: 20.165163
+X Press Time: 20.254042
+X Press Time: 20.258783
+X Press Time: 20.262453
+X Press Time: 20.267000
+X Press Time: 20.272911
+X Press Time: 20.277990
+X Press Time: 20.281603
+X Press Time: 20.285652
+X Press Time: 20.289778
+X Press Time: 20.293489
+X Press Time: 20.297230
+X Press Time: 20.300743
+X Press Time: 20.305254
+X Press Time: 20.308886
+X Press Time: 20.312733
+X Press Time: 20.317566
+X Press Time: 20.321573
+X Press Time: 20.326035
+X Press Time: 20.329758
+X Press Time: 20.333576
+X Press Time: 20.337620
+X Press Time: 20.341497
+X Press Time: 20.345493
+X Press Time: 20.352787
+X Press Time: 20.459124
+X Press Time: 20.462822
+X Press Time: 20.466980
+X Press Time: 20.470924
+X Press Time: 20.474922
+X Press Time: 20.478685
+X Press Time: 20.482500
+X Press Time: 20.486771
+X Press Time: 20.490950
+X Press Time: 20.494705
+X Press Time: 20.498512
+X Press Time: 20.502069
+X Press Time: 20.506544
+X Press Time: 20.510284
+X Press Time: 20.514175
+X Press Time: 20.517796
+X Press Time: 20.521923
+X Press Time: 20.526093
+X Press Time: 20.529963
+X Press Time: 20.533728
+X Press Time: 20.537609
+X Press Time: 20.642914
+X Press Time: 20.646954
+X Press Time: 20.650509
+X Press Time: 20.654461
+X Press Time: 20.659502
+X Press Time: 20.663269
+X Press Time: 20.667120
+X Press Time: 20.671337
+X Press Time: 20.676527
+X Press Time: 20.681461
+X Press Time: 20.685507
+X Press Time: 20.690264
+LB Press Time: 22.773539
+LB Press Time: 22.778214
+LB Press Time: 22.782619
+LB Press Time: 22.787594
+LB Press Time: 22.792255
+LB Press Time: 22.796129
+LB Press Time: 22.800026
+LB Press Time: 22.804640
+LB Press Time: 22.808353
+LB Press Time: 22.812016
+LB Press Time: 22.815710
+LB Press Time: 22.819334
+LB Press Time: 22.823250
+LB Press Time: 22.827475
+LB Press Time: 22.831108
+LB Press Time: 22.834757
+LB Press Time: 22.838732
+LB Press Time: 22.842392
+LB Press Time: 22.846556
+LB Press Time: 22.850498
+LB Press Time: 22.856453
+LB Press Time: 22.861689
+LB Press Time: 22.865845
+LB Press Time: 22.869555
+LB Press Time: 22.873653
+LB Press Time: 22.877262
+LB Press Time: 22.880812
+LB Press Time: 22.884806
+LB Press Time: 22.888916
+LB Press Time: 22.892521
+LB Press Time: 22.896299
+LB Press Time: 22.899864
+LB Press Time: 22.903679
+A Press Time: 24.719999
+B Press Time: 25.100000
+A Press Time: 25.180000
+B Press Time: 26.619999
+B Press Time: 26.840000
+B Press Time: 27.039999
+B Press Time: 27.240000
+B Press Time: 27.400000
+B Press Time: 27.599998
+B Press Time: 27.799999
+B Press Time: 28.019999
+A Press Time: 28.519999
+B Press Time: 28.879999
+B Press Time: 29.459999
+B Press Time: 30.000000
+B Press Time: 30.299999
+A Press Time: 30.599998
+B Press Time: 30.779999
+A Press Time: 31.900000
+B Press Time: 31.900000
+B Press Time: 32.719997
+B Press Time: 33.020000
+B Press Time: 33.660000
+A Press Time: 34.459999
+B Press Time: 34.559998
+A Press Time: 4.900000
+A Press Time: 5.440000
+A Press Time: 7.240000
+A Press Time: 9.940000
+A Press Time: 11.580000
+A Press Time: 12.000000
+A Press Time: 13.099999
+A Press Time: 14.139999
+A Press Time: 14.540000
+B Press Time: 17.039999
+A Press Time: 18.879999
+B Press Time: 19.639999
+A Press Time: 21.779999
+A Press Time: 23.740000
+B Press Time: 24.600000
+A Press Time: 25.719999
+A Press Time: 26.480000
+B Press Time: 26.799999
+X Press Time: 30.611542
+X Press Time: 30.617458
+X Press Time: 30.622082
+X Press Time: 30.627005
+X Press Time: 30.632530
+X Press Time: 30.636581
+X Press Time: 30.641312
+X Press Time: 30.646242
+X Press Time: 30.651190
+X Press Time: 30.655508
+X Press Time: 30.661192
+X Press Time: 30.667637
+X Press Time: 30.672836
+X Press Time: 30.677580
+X Press Time: 30.682390
+X Press Time: 30.687075
+X Press Time: 30.692350
+X Press Time: 30.780209
+X Press Time: 30.785357
+X Press Time: 30.790688
+X Press Time: 30.795183
+X Press Time: 30.800879
+X Press Time: 30.805992
+X Press Time: 30.810648
+X Press Time: 30.815262
+X Press Time: 30.819593
+X Press Time: 30.824600
+X Press Time: 30.829975
+X Press Time: 30.835060
+X Press Time: 30.840477
+X Press Time: 30.845671
+X Press Time: 30.949957
+X Press Time: 30.954275
+X Press Time: 30.958935
+X Press Time: 30.963919
+X Press Time: 30.969521
+X Press Time: 30.973894
+X Press Time: 30.978310
+X Press Time: 30.982849
+X Press Time: 30.987461
+X Press Time: 30.992214
+X Press Time: 30.997261
+X Press Time: 31.003675
+X Press Time: 31.010250
+X Press Time: 31.014818
+X Press Time: 31.019262
+X Press Time: 31.023977
+X Press Time: 31.029045
+X Press Time: 31.117954
+X Press Time: 31.122263
+X Press Time: 31.127054
+X Press Time: 31.132772
+X Press Time: 31.137062
+X Press Time: 31.141865
+X Press Time: 31.146900
+X Press Time: 31.151583
+X Press Time: 31.156490
+X Press Time: 31.160543
+X Press Time: 31.166132
+X Press Time: 31.170536
+X Press Time: 31.174995
+X Press Time: 31.179703
+X Press Time: 31.184017
+X Press Time: 31.188675
+X Press Time: 31.193205
+X Press Time: 31.198658
+LB Press Time: 34.330093
+LB Press Time: 34.335358
+LB Press Time: 34.339771
+LB Press Time: 34.344265
+LB Press Time: 34.351173
+LB Press Time: 34.357456
+LB Press Time: 34.363049
+LB Press Time: 34.367847
+LB Press Time: 34.371658
+LB Press Time: 34.375431
+LB Press Time: 34.379364
+LB Press Time: 34.383156
+LB Press Time: 34.387241
+LB Press Time: 34.391739
+LB Press Time: 34.395531
+A Press Time: 36.459999
+A Press Time: 36.980000
+A Press Time: 39.200001
+A Press Time: 42.099998
+A Press Time: 42.579998
+A Press Time: 3.420000
+A Press Time: 4.100000
+A Press Time: 4.840000
+A Press Time: 7.300000
+A Press Time: 7.940000
+B Press Time: 10.780000
+A Press Time: 12.259999
+B Press Time: 13.219999
+X Press Time: 16.746262
+X Press Time: 16.750811
+X Press Time: 16.754812
+X Press Time: 16.758797
+X Press Time: 16.762859
+X Press Time: 16.767660
+X Press Time: 16.771364
+X Press Time: 16.776257
+X Press Time: 16.780655
+X Press Time: 16.785187
+X Press Time: 16.789280
+X Press Time: 16.793678
+X Press Time: 16.797775
+X Press Time: 16.801470
+X Press Time: 16.805637
+X Press Time: 16.810331
+X Press Time: 16.814426
+X Press Time: 16.818192
+X Press Time: 16.822193
+X Press Time: 16.826521
+X Press Time: 16.933516
+X Press Time: 16.937243
+X Press Time: 16.941509
+X Press Time: 16.947447
+X Press Time: 16.951189
+X Press Time: 16.955202
+X Press Time: 16.959276
+X Press Time: 16.963423
+X Press Time: 16.967798
+X Press Time: 16.971479
+X Press Time: 16.976274
+X Press Time: 16.980730
+X Press Time: 16.985306
+X Press Time: 16.989111
+X Press Time: 16.993084
+X Press Time: 16.997747
+X Press Time: 17.084969
+X Press Time: 17.089310
+X Press Time: 17.093258
+X Press Time: 17.097504
+X Press Time: 17.101686
+X Press Time: 17.105963
+X Press Time: 17.111023
+X Press Time: 17.116100
+X Press Time: 17.119976
+X Press Time: 17.124298
+X Press Time: 17.128471
+X Press Time: 17.132654
+X Press Time: 17.136417
+X Press Time: 17.140171
+X Press Time: 17.146097
+X Press Time: 17.150438
+X Press Time: 17.154451
+X Press Time: 17.158529
+X Press Time: 17.162552
+X Press Time: 17.167271
+X Press Time: 17.254387
+X Press Time: 17.258314
+X Press Time: 17.262466
+X Press Time: 17.267366
+X Press Time: 17.271109
+X Press Time: 17.276220
+X Press Time: 17.280767
+X Press Time: 17.285328
+X Press Time: 17.289288
+X Press Time: 17.293444
+X Press Time: 17.301386
+X Press Time: 17.305748
+X Press Time: 17.310698
+X Press Time: 17.315269
+X Press Time: 17.318892
+X Press Time: 17.405815
+X Press Time: 17.410959
+X Press Time: 17.415344
+X Press Time: 17.419296
+X Press Time: 17.423182
+X Press Time: 17.427675
+X Press Time: 17.431761
+X Press Time: 17.436029
+X Press Time: 17.439812
+X Press Time: 17.444691
+X Press Time: 17.449329
+X Press Time: 17.453426
+X Press Time: 17.457390
+X Press Time: 17.461441
+X Press Time: 17.466448
+X Press Time: 17.470474
+X Press Time: 17.474932
+X Press Time: 17.479158
+X Press Time: 17.483831
+X Press Time: 17.488329
+X Press Time: 17.590792
+X Press Time: 17.594873
+X Press Time: 17.599060
+X Press Time: 17.602972
+X Press Time: 17.607901
+X Press Time: 17.612360
+X Press Time: 17.616631
+X Press Time: 17.620638
+X Press Time: 17.625095
+X Press Time: 17.629063
+X Press Time: 17.633482
+X Press Time: 17.637316
+X Press Time: 17.641588
+X Press Time: 17.646822
+X Press Time: 17.650835
+X Press Time: 17.654755
+X Press Time: 17.658638
+X Press Time: 17.662756
+X Press Time: 17.667505
+X Press Time: 17.671309
+X Press Time: 17.744972
+X Press Time: 17.749565
+X Press Time: 17.753344
+X Press Time: 17.757547
+X Press Time: 17.761524
+X Press Time: 17.766384
+X Press Time: 17.770208
+X Press Time: 17.774252
+X Press Time: 17.779291
+X Press Time: 17.783688
+X Press Time: 17.788057
+X Press Time: 17.792213
+X Press Time: 17.797010
+X Press Time: 17.801270
+X Press Time: 17.805698
+X Press Time: 17.810902
+X Press Time: 17.815168
+X Press Time: 17.818956
+X Press Time: 17.822933
+X Press Time: 17.899027
+X Press Time: 17.903618
+X Press Time: 17.907726
+X Press Time: 17.913025
+X Press Time: 17.917168
+X Press Time: 17.920931
+X Press Time: 17.926012
+X Press Time: 17.930319
+X Press Time: 17.934362
+X Press Time: 17.937975
+X Press Time: 17.942612
+X Press Time: 17.947195
+X Press Time: 17.950922
+X Press Time: 17.954611
+X Press Time: 17.958340
+X Press Time: 17.962227
+X Press Time: 17.966862
+X Press Time: 17.970432
+X Press Time: 17.974222
+X Press Time: 17.978954
+X Press Time: 18.065060
+X Press Time: 18.069353
+X Press Time: 18.073101
+X Press Time: 18.077871
+X Press Time: 18.081902
+X Press Time: 18.086348
+X Press Time: 18.090162
+X Press Time: 18.093922
+X Press Time: 18.097811
+X Press Time: 18.101454
+X Press Time: 18.105776
+X Press Time: 18.110384
+X Press Time: 18.114403
+X Press Time: 18.118248
+X Press Time: 18.123056
+X Press Time: 18.127594
+X Press Time: 18.131487
+LB Press Time: 19.334625
+LB Press Time: 19.339760
+LB Press Time: 19.344833
+LB Press Time: 19.349405
+LB Press Time: 19.353416
+LB Press Time: 19.357277
+LB Press Time: 19.361059

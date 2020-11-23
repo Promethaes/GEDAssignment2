@@ -109,7 +109,7 @@ public class NPlayerInput : MonoBehaviour
             return;
 
         FindObjectOfType<QuestSystemScript>().SendCompleteEvent("Ability");
-       FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("LB");
+       FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("LB",Time.time);
 
         if (playerType == 1)
             bubbleShieldScript.AttemptToCast();
@@ -176,7 +176,7 @@ public class NPlayerInput : MonoBehaviour
 
     void _Jump()
     {
-        FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("A");
+        FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("A",Time.time);
 
         //NOTE: Resets the button so that the player doesn't accidentally double jump
          _isJumping = 0.0f;
@@ -204,7 +204,7 @@ public class NPlayerInput : MonoBehaviour
 
     void _Dash()
     {
-        FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("B");
+        FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("B",Time.time);
         //NOTE: Resets the button so that the player doesn't accidentally dash + air dash while holding the button
          _isDashing = 0.0f;
 
@@ -241,7 +241,7 @@ public class NPlayerInput : MonoBehaviour
 
     void _Attack()
     {
-        FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("X");
+        FindObjectOfType<UserMetricsLoggerScript>().csAddButtonPress("X",Time.time);
         if (_animationDuration < 0.0f)
         {
             _animationDuration = _animationDelay[_comboCounter];

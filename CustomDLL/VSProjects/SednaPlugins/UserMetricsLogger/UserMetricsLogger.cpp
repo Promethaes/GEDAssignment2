@@ -34,7 +34,7 @@ void UserMetricsLogger::ClearUserMetricsFile(String str)
 	file.close();
 }
 
-void UserMetricsLogger::AddButtonPress(String srt)
+void UserMetricsLogger::AddButtonPress(String srt,float time)
 {
-	logData.push_back(MetricLog(id, srt.data));
+	logData.push_back(MetricLog(id, std::string(srt.data) + std::string(" Press Time: ") + std::to_string(time)));
 }

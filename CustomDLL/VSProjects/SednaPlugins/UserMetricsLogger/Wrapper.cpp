@@ -13,7 +13,7 @@ void SetDefaultWritePath(String str)
 	logger.SetDefaultWritePath(str);
 }
 
-void AddButtonPress(String str)
+void AddButtonPress(String str,float time)
 {
-	logger.AddButtonPress(str);
+	logger.AddButtonPress(str,time);
 }

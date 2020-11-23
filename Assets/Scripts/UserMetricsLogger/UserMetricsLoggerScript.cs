@@ -25,11 +25,11 @@ public class UserMetricsLoggerScript : MonoBehaviour
     public static extern void SetDefaultWritePath(String str);
 
     [DllImport(dllName)]
-    public static extern void AddButtonPress(String str);
+    public static extern void AddButtonPress(String str,float time);
 
-    public void csAddButtonPress(string str)
+    public void csAddButtonPress(string str,float time)
     {
-        AddButtonPress(new String(str));
+        AddButtonPress(new String(str),time);
     }
 
     public void csWriteUserMetricsToFile()
